@@ -1,0 +1,51 @@
+[9:28:17 AM] Ritesh Modi: Hi dan
+[9:28:23 AM] Ritesh Modi: Can we talk?
+[9:29:42 AM] Daniel Hughes: no - sorry  :(
+[9:30:02 AM] Daniel Hughes: i was online several hours ago - not available now
+[9:30:50 AM] Ritesh Modi: Then can we talk at my morning time tomorrow?
+[9:31:11 AM] Daniel Hughes: let's try
+[9:31:18 AM] Daniel Hughes: ttyl - going into mtg now
+[9:31:20 AM] Ritesh Modi: K
+[9:31:43 AM] Ritesh Modi: Bye ttyl
+[8:33:39 PM] Daniel Hughes: i have time now quickly...
+[8:33:49 PM] Daniel Hughes: pls tell me again problem you ran into
+[8:36:12 PM] Ritesh Modi: HI Dan
+[8:36:14 PM] Ritesh Modi: Good Morning
+[8:36:53 PM] Ritesh Modi: in the Membership module and EF i have to many RND at every point
+[8:37:32 PM] Ritesh Modi: i dont know in future what kind of problem it may create for us
+[8:37:58 PM] Ritesh Modi: I have just implimented the custom code with WCF service where everything is designed by us
+[8:38:02 PM] Daniel Hughes: RND ??
+[8:38:39 PM] Ritesh Modi: RND=Need to search for solution every time
+[8:38:44 PM] Daniel Hughes: ok - then we will not use EF for now - it is not necessary for us IMHO
+[8:39:25 PM] Ritesh Modi: in membership module we can implement it as part of WEb application
+[8:39:46 PM] Ritesh Modi: if we try to create it a seperate WCF service then it give error
+[8:40:41 PM] Ritesh Modi: I will send you the some code that i have done for WCF in other project for your understanding so that you will get aware that how i deal with it
+[8:41:41 PM] Ritesh Modi: WE can use EF but this is also has issue that we need to write our code in Class library
+[8:41:59 PM] Ritesh Modi: which is not loosly coupled coding
+[8:42:04 PM] Daniel Hughes: ok
+[8:42:23 PM] Ritesh Modi: we can use it as just only DataLayer
+[8:42:26 PM] Daniel Hughes: for engine, I want WCF and some reliable & safe way of authentication/authorization...
+[8:42:35 PM] Daniel Hughes: membership or not - let me know...
+[8:42:45 PM] Daniel Hughes: EF is not big concern for me right now
+[8:42:58 PM] Daniel Hughes: are you still logging time in toggl?
+[8:43:11 PM] Ritesh Modi: No
+[8:43:28 PM] Daniel Hughes: please do that - need to track your hours for payment
+[8:44:59 PM] Ritesh Modi: Ok i will do that. From Now onward i will try to use EF as datalayer with custom StoreProcedures for communicating with database.
+[8:45:11 PM] Daniel Hughes: ok
+[8:45:27 PM] Daniel Hughes: i hope to be able to work on it with you soon
+[8:45:51 PM] Ritesh Modi: I will include some feature like permission on Some methods that will check that user has permission to execute any method
+[8:46:16 PM] Ritesh Modi: sure that will be great
+[8:46:54 PM] Ritesh Modi: So here is the plan
+[8:48:28 PM] Ritesh Modi: 1)Develop a Webapplication that will content all .aspx pages.
+2) WCF service for communicating with database for SEcurity related implementation
+3) WCF service for Communicating Shipment related implementation.
+[8:49:18 PM] Ritesh Modi: 4) Error loging
+[8:49:40 PM] Ritesh Modi: and many other feature
+[8:49:44 PM] Daniel Hughes: ok
+[8:49:49 PM] Ritesh Modi: Thanks
+[8:49:52 PM] Daniel Hughes: anything else at this time?  I have been here at work for 14 hrs & sleepy & need to eat dinner
+[8:50:15 PM] Ritesh Modi: Nothing for Now
+[8:50:24 PM] Ritesh Modi: Please take you dinner :)
+[8:50:59 PM] Daniel Hughes: ok - we will talk later - hopefully within 48 hrs :)
+[8:51:01 PM] Daniel Hughes: thanks!
+[8:51:18 PM] Ritesh Modi: Ok thanks for your time
